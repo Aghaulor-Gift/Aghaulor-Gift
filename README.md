@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Aghaulor Gift 
 ---
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00F7FF&width=435&lines=Software+Developer;Full+Stack+Developer;Data+Analytics;Data+Science+Enthusiast;Bridging+Energy+and+Technology)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00F7FF&width=435&lines=Full+Stack+Developer;Data+Analytics+and;Data+Science+Enthusiast;Bridging+Energy+and+Technology;Open+to+Remote+Jobs+|+Onsite+|+Hybrid)](https://git.io/typing-svg)
 --- 
 
 ### **Aspiring Full Stack Developer (HTML, CSS, React, Node.js, FastAPI) | Data Analytics & Data Science Enthusiast | Bridging Energy and Technology**
