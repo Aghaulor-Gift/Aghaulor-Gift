@@ -1,6 +1,10 @@
-# 👋 Hello, I'm Aghaulor Gift  
+# 👋 Hello, I'm Aghaulor Gift 
+---
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00F7FF&width=435&lines=Software+Developer;Full+Stack+Developer;Data+Analytics;Data+Scientist;Bridging+Energy+and+Technology)](https://git.io/typing-svg)
+--- 
 
-### ** Aspiring Software Developer (HTML, CSS, React, Node.js, FastAPI) | Data Analytics & Data Science enthusiast| Petroleum Engineering Lecturer| **  
+### **Aspiring Full Stack Developer (HTML, CSS, React, Node.js, FastAPI) | Data Analytics & Data Science Enthusiast | Bridging Energy and Technology**
+ 
 
 I’m passionate about building user-friendly interface and functionality, scalable, optimisable and readable codes with best practices. Bridging  **technology, data, and energy innovation**. My futuristic goal is to be a well-rounded full-stack developer (frontend + backend) to predictive analytics, I love turning complex problems into elegant, data-driven solutions.
 
@@ -18,7 +22,7 @@ I’m passionate about building user-friendly interface and functionality, scala
 ##  Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs/express.js,flask,fastapi,html,css,bootstrap 5, tailwind,mysql,redis,git,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,node,express,flask,fastapi,html,css,bootstrap,tailwind,mysql,redis,git,vscode,github"/>
 </p>
 
 **Languages:** Python, JavaScript, HTML, CSS, Bootstrap, TypeScript(in-view)  
@@ -28,6 +32,12 @@ I’m passionate about building user-friendly interface and functionality, scala
 **Extras:** TailwindCSS, REST APIs, Data Analysis, Data Science, Machine Learning Model Deployment  
 
 ---
+
+## Badges
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![React](https://img.shields.io/badge/React-18.0-61DAFB?logo=react)
+![FastAPI](https://img.shields.io/badge/FastAPI-async-green?logo=fastapi)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql)
 
 ## 🧠 Areas of Interest
 -  Full Stack Development & API Engineering  
@@ -72,6 +82,10 @@ I’m passionate about building user-friendly interface and functionality, scala
 </p>
 
 ---
+![Visitor Count](https://komarev.com/ghpvc/?username=Aghaulor-Gift&label=Profile%20Views&color=0e75b6&style=flat)
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00F7FF&width=435&lines=Thank+you)](https://git.io/typing-svg)
 
 > 💡 *"Code, Data, and Innovation — Building Applications in Software Engineering."*
 
