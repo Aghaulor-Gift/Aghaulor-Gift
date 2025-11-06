@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/Aghaulor-Gift/Aghaulor-Gift/blob/main/images/banner.png" alt="Techy Banner" width="100%">
+</p>
+
+
 # 👋 Hello, I'm Aghaulor Gift 
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00F7FF&width=435&lines=Full+Stack+Developer;Data+Analytics+and;Data+Science+Enthusiast;Bridging+Energy+and+Technology;Open+to+Remote+|+Onsite+|+Hybrid+Jobs)](https://git.io/typing-svg)
@@ -6,18 +11,29 @@
 ### **Aspiring Full Stack Developer (HTML, CSS, React, Node.js, FastAPI) | Data Analytics & Data Science Enthusiast | Bridging Energy and Technology**
  
 
-I’m passionate about building user-friendly interface and functionality, scalable, optimisable and readable codes with best practices. Bridging  **technology, data, and energy innovation**. My futuristic goal is to be a well-rounded full-stack developer (frontend + backend) to predictive analytics, I love turning complex problems into elegant, data-driven solutions.
+##  About Me  
+I'm a **Petroleum Engineering Lecturer** expanding my expertise into **Full Stack Development** and **Data Science** — blending engineering logic, data analytics, and creative problem-solving.  
+I enjoy building **scalable, user-friendly applications** and exploring how **AI and intelligent systems** can enhance real-world decision-making across multiple industries.
+
+- 💻 Skilled in: HTML, CSS, React, Node.js, Express, FastAPI (upskilling) 
+- 🧠 Background: Petroleum Engineering | Reservoir Engineering | Enhanced Oil Recovery  
+- 📊 Data Tools: Python, SQL, Pandas, NumPy (in progress)   
+---
+
+### 🎯 Short-Term Goals  
+- Refine full-stack projects and publish a small portfolio  
+- Build interactive dashboards for analytics  
+- Apply machine learning basics to engineering and real-world data  
+- Strengthen UI/UX skills for technical and data-driven apps
+- Exploring: AI and Automation in Energy, Education, and Innovation ()   
+
+
+
+###  What Drives Me  
+> *I’m driven by curiosity, continuous learning, and the pursuit of creating digital solutions that connect data, engineering, and human experience.*
 
 ---
 
-##  About Me
--  Background in **Petroleum Engineering**, specializing in teaching and reaching in Reservoir Engineering, Enhanced Oil Recovery in Oil & Gas Industrys.  
--  Skilled in both **Frontend and Backend** development — crafting full-stack solutions with clean, scalable architecture.  
--  Exploring **Data Science**, **Data Analytics** and **Machine Learning** applications for engineering and field optimization.  
--  Currently refining my **portfolio projects** and expanding my skill set in **UI/UX and creative design**.
--  Short term  Goal: Expanding my skill set in **UI/UX and Creative Design** and **Video Editing**  
-
----
 
 ##  Tech Stack & Tools
 
@@ -39,12 +55,12 @@ I’m passionate about building user-friendly interface and functionality, scala
 ![FastAPI](https://img.shields.io/badge/FastAPI-async-green?logo=fastapi)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql)
 
-## 🧠 Areas of Interest
--  Full Stack Development & API Engineering  
--  Data Science & Predictive Modeling  
--  Digital Oilfield Analytics & Energy Data Systems  
-- ‍ UI/UX Design for Technical Applications  
--  AI & Automation in Petroleum Research and other related fields  
+## Areas of Interest
+- Full Stack Development & API Engineering  
+- Data Analytics & Predictive Modeling  
+- AI & Automation Across Industries  
+- UI/UX Design & Creative Applications ()  
+- Digital Transformation & Energy Innovation 
 
 ---
 
@@ -62,6 +78,7 @@ I’m passionate about building user-friendly interface and functionality, scala
 | [**Oil Field Data Analyzer**](https://github.com/Aghaulor-Gift/oil-field-data) | Machine learning pipeline for oil recovery predictions | Python, Pandas, Scikit-learn |
 | [**REST API Authentication Project**](https://github.com/Aghaulor-Gift/rest-api-auth) | Secure API auth using Base64 & environment variables | Python, Flask |
 | [**Caching & Pagination System**](https://github.com/Aghaulor-Gift/python-caching-system) | Redis-based caching and pagination in Python | Redis, Flask |
+|UI/UX Design & Creative Visualization|Create user-friendly interfaces| Figma, Other related tools|
 
 ---
 
