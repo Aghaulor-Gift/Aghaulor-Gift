@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Aghaulor-Gift/Aghaulor-Gift/blob/main/images/banner.png" alt="Techy Banner" width="100%">
+  <img src="https://github.com/Aghaulor-Gift/Aghaulor-Gift/blob/main/images/github_banner.png" alt="Techy Banner" width="100%">
 </p>
 
 
