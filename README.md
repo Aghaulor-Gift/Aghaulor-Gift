@@ -8,7 +8,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00F7FF&width=435&lines=Full+Stack+Developer;Data+Analytics+and;Data+Science+Enthusiast;Bridging+Energy+and+Technology;Open+to+Remote+|+Onsite+|+Hybrid+Jobs)](https://git.io/typing-svg)
 --- 
 
-### **Aspiring Full Stack Developer (HTML, CSS, React, Node.js, FastAPI) | Data Analytics & Data Science Enthusiast | Bridging Energy and Technology**
+### **Full Stack Developer (HTML, CSS, React, Node.js, FastAPI) | Data Analytics & Data Science Enthusiast | Bridging Energy and Technology**
  
 
 ##  About Me  
@@ -25,7 +25,7 @@ I enjoy building **scalable, user-friendly applications** and exploring how **AI
 - Build interactive dashboards for analytics  
 - Apply machine learning basics to engineering and real-world data  
 - Strengthen UI/UX skills for technical and data-driven apps
-- Exploring: AI and Automation in Energy, Education, and Innovation ()   
+- Exploring: AI and Automation in Energy, Education, and Innovation   
 
 
 
@@ -35,26 +35,39 @@ I enjoy building **scalable, user-friendly applications** and exploring how **AI
 ---
 
 
-##  Tech Stack & Tools
+## 🧠 Tech Stack & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,node,express,flask,fastapi,html,css,bootstrap,tailwind,mysql,redis,git,vscode,github"/>
-</p>
-
-**Languages:** Python, JavaScript, HTML, CSS, Bootstrap, TypeScript(in-view)  
-**Frameworks:** React, Node.js/Express.js,FastAPI, Flask  
-**Databases:** MySQL, Redis  
-**Tools:** Git, Docker (in-view), VS Code  
-**Extras:** TailwindCSS, REST APIs, Data Analysis, Data Science, Machine Learning Model Deployment  
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
-## Badges
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
-![React](https://img.shields.io/badge/React-18.0-61DAFB?logo=react)
-![FastAPI](https://img.shields.io/badge/FastAPI-async-green?logo=fastapi)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql)
+### ⚙️ Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
+---
+
+### 🗄️ Databases & Cache
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+---
+
+### 🧰 Tools & Platforms
+![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+
+
+---
 ## Areas of Interest
 - Full Stack Development & API Engineering  
 - Data Analytics & Predictive Modeling  
@@ -85,8 +98,10 @@ I enjoy building **scalable, user-friendly applications** and exploring how **AI
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.netlify.app/api?username=Aghaulor-Gift&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.railwayapp.com/?user=Aghaulor-Gift&theme=radical" alt="GitHub Streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aghaulor-Gift&show_icons=true&title_color=FACC15&icon_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats" height="160"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Aghaulor-Gift&show_icons=true&title_color=FACC15&icon_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Streaks" height="160"/>
+
+ 
 </p>
 
 ---
@@ -95,7 +110,7 @@ I enjoy building **scalable, user-friendly applications** and exploring how **AI
 <p align="center">
   <a href="https://www.linkedin.com/in/gift-aghaulor/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:aghaulor.gift@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.shecodes.io/cohorts/2098/projects/2447948?_gl=1*1m0ckqe*_gcl_au*MzkyMTMwNjMzLjE3NjIzMzUyMTI."><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.shecodes.io/cohorts/2098/projects/2447948?_gl=1*1m0ckqe*_gcl_au*MzkyMTMwNjMzLjE3NjIzMzUyMTI."><img src="https://img.shields.io/badge/Portfolio-23?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
